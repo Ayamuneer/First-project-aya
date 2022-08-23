@@ -1,0 +1,45 @@
+body{
+    display: flex;
+    justify-content: center;
+
+}
+
+button {
+    background-color: #444ea4;
+    color: white;
+    padding: 20px 240px;
+    margin: 8px 0;
+    border: none;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    border-radius: 30px;
+
+  }
+
+  .signupbtn{
+    background-color: #b4484d;
+    
+  }
+
+  .img {
+    text-align: center;
+  }
+
+.heading{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.parag {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    color: #7b7a7a;
+    height: 4px;
+    
+    
+}
+
